@@ -1,33 +1,8 @@
- 
+# IW & Game Design - Mario, SLC Edition
+Het totaal ondenkbare is, alweer, gebeurd: dankzij een kwaadaardig sluw plan ontvoerde Bowser princess Peach. Again! Reden genoeg voor SLC Mario om haar te redden en die stoute Bowser een dreun te verkopen! Kruip in de huid van Mario, spring doorheen de levens, ontwijk hindernissen en vijanden ... en vind zo de geheime schuilplaats van jouw aartsvijand! It is me you, Mario!
 
+De game kan je spelen via volgende link: 
+https://robbew.github.io/mario_slc_edition/
 
-> Open this page at [https://robbew.github.io/mario_slc_edition/](https://robbew.github.io/mario_slc_edition/)
-
-## Use as Extension
-
-This repository can be added as an **extension** in MakeCode.
-
-* open [https://arcade.makecode.com/](https://arcade.makecode.com/)
-* click on **New Project**
-* click on **Extensions** under the gearwheel menu
-* search for **https://github.com/robbew/mario_slc_edition** and import
-
-## Edit this project ![Build status badge](https://github.com/robbew/mario_slc_edition/workflows/MakeCode/badge.svg)
-
-To edit this repository in MakeCode.
-
-* open [https://arcade.makecode.com/](https://arcade.makecode.com/)
-* click on **Import** then click on **Import URL**
-* paste **https://github.com/robbew/mario_slc_edition** and click import
-
-## Blocks preview
-
-This image shows the blocks code from the last commit in master.
-This image may take a few minutes to refresh.
-
-![A rendered view of the blocks](https://github.com/robbew/mario_slc_edition/raw/master/.github/makecode/blocks.png)
-
-#### Metadata (used for search, rendering)
-
-* for PXT/arcade
-<script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
+Meer informatie over dit project vind je via volgende link: 
+https://www.robbewulgaert.be/onderwijs/wall-of-game
